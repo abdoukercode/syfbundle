@@ -1,2 +1,3 @@
 abdou_lorem_ips:
    min_sunshine: 10
+   word_provider: App\Service\CustomWordProvider
